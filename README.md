@@ -626,3 +626,17 @@ button:active {
   border: 1px solid var(--Neutral-80, #c3c6c7);
   background: var(--Neutral-80, #c3c6c7);
 }
+
+<!doctype html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+	<div id="root"></div>
+	<script src="script.js" type="module"></script>
+</body>
+
+</html>
