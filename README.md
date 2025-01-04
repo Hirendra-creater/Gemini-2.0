@@ -26,20 +26,44 @@ Map Explorer
 <br>
 
 Map Explorer (live demo) is a simple app that allows you to explore a map using Gemini and the Google Maps API. It was built using Lit, and the Maps Embed API.
+<br>
+
 
 This example will give you an idea of how to get started with function calling. See function-declarations.js to find out more about how function calling is used to call the Maps Embed API here!
+<br>
+
 
 To develop locally, insert your Gemini API key where you see your_key_here in the script.js file.
+<br>
+
 
 Contributors
+<br>
+
 @bencobley
+<br>
+
 @dmotz
+<br>
+
 @grantcuster
+<br>
+
 @hapticdata
+<br>
+
 https://github.com/google-gemini/starter-applets.git
+<br>
+
 git clone https://github.com/Hirendra-creater/Gemini - 2.0.git
+<br>
+
 https://github.com/Hirendra-creater/bio.site/hmitra.git
+<br>
+
 https://github.com/google-gemini/starter-applets?tab=readme-ov-file#ai-studio-starter-applets
+<br>
+
 google-gemini/starter-applets
 
 
