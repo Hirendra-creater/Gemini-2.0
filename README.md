@@ -60,7 +60,7 @@ https://github.com/google-gemini/starter-applets.git
 git clone https://github.com/Hirendra-creater/Gemini - 2.0.git
 <br>
 
-https://aistudio.google.com/starter-apps/hirendra-creater
+https://aistudio.google.com/starter-apps/Hirendra-creater
 <br>
 
 https://github.com/google-gemini/starter-applets?tab=readme-ov-file#ai-studio-starter-applets
