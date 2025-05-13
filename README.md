@@ -57,7 +57,7 @@ Contributors
 https://github.com/google-gemini/starter-applets.git
 <br>
 
-git clone https://github.com/Hirendra-creater/Gemini - 2.0.git
+git clone https://github.com/Hirendra-creater/Gemini - 2.0.git/https://aistudio.google.com
 <br>
 
 https://aistudio.google.com/starter-apps
