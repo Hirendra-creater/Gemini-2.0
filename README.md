@@ -68,4 +68,4 @@ https://github.com/google-gemini/starter-applets?tab=readme-ov-file#ai-studio-st
 
 google-gemini/starter-applets
 
-
+ http://gemini.com/
