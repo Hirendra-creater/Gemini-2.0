@@ -1,4 +1,4 @@
-# Gemini-2.6
+# Gemini-2.5Pro
 Google AI Studio Starter Applets
 <br>
 
