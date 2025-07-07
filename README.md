@@ -60,10 +60,7 @@ https://github.com/Hirendra-creater/Gemini-2.5Pro
  https://aistudio.google.com/
 <br>
 
-https://aistudio.google.com/Hirendra-creater/Gemini-2.5Pro/
-<br>
-
-https://github.com/google-gemini/starter-applets?tab=readme-ov-file#ai-studio-starter-applets
+https://aistudio.google.com/github.com/Hirendra-creater/Gemini-2.5Pro/
 <br>
 
 google-gemini/starter-applets
