@@ -60,9 +60,6 @@ https://github.com/Hirendra-creater/Gemini-2.5Pro
  https://aistudio.google.com/
 <br>
 
-https://aistudio.google.com/github.com/Hirendra-creater/Gemini-2.5Pro/
-<br>
-
 google-gemini/starter-applets
 
  http://gemini.com/
