@@ -54,13 +54,13 @@ Contributors
 
 @Hirendra-creater
 
-https://github.com/google-gemini/starter-applets.git
+https://github.com/Hirendra-creater/Gemini-2.5Pro/commit/fa91f74150077166e9596e05822b989df61fa222#diff-76b26edb75578663ca0fd6515ec7880ca04046bdbab298938981c9f0bd3907ddR2
 <br>
 
- https://aistudio.google.com/Hirendra-creater/
+ https://aistudio.google.com/
 <br>
 
-https://aistudio.google.com/starter-apps
+https://aistudio.google.com/starter-apps/Gemini-2.5Pro/
 <br>
 
 https://github.com/google-gemini/starter-applets?tab=readme-ov-file#ai-studio-starter-applets
